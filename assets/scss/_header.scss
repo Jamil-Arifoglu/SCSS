@@ -1,0 +1,50 @@
+
+
+
+header{
+    background-color: black;
+
+    .container {
+        .row {
+            display: flex;
+            justify-content: space-between;
+
+
+
+            .logo {
+                color: white;
+
+            }
+
+            .nav {
+                display: flex;
+                justify-content: end;
+
+                ul {
+                    justify-content: end;
+
+
+
+                    a {
+                        display: flex;
+                        text-decoration: none;
+                        color: white;
+
+
+
+                        li {
+                            margin-left: 40px;
+                            list-style: none;
+                            font-size: 25px;
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+}
+
+
+
+

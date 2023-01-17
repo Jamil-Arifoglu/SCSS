@@ -1,0 +1,30 @@
+#Customer {
+    .container {
+        text-align: center;
+    }
+
+    .row {
+        display: flex;
+        align-items: center;
+
+        .card {
+            width: 500px;
+
+
+            .icone {
+                .span {
+
+                    padding: 30px;
+
+                    span {
+                        
+                        width: 200px;
+                    }
+                }
+
+            }
+        }
+    }
+
+
+}

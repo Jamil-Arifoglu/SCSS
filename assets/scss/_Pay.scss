@@ -1,0 +1,47 @@
+#pay {
+    background-color: rgb(241, 241, 241);
+
+    .container {
+
+        margin-top: 100px;
+        padding: 50px;
+
+        .text {
+            text-align: center;
+        }
+
+        .row {
+            .text-list {
+                width: 350px;
+                height: 450px;
+                margin-left: 50px;
+                background-color: white;
+                border: 2px;
+
+                .text-2 {
+                    #buy{
+                        font-size: 40px;
+                    }
+
+                   
+                }
+
+                .list {
+                    ul {
+                        li {
+                            list-style: none;
+                            margin-bottom: 10px;
+                        }
+                    }
+                }
+                .button{
+                   text-align: center;
+
+                     a{
+                        width: 250px;
+                     }
+                }
+            }
+        }
+    }
+}
