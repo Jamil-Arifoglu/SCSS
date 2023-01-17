@@ -8,10 +8,6 @@ header .container .row {
 header .container .row .logo {
   color: white;
 }
-header .container .row .nav {
-  display: flex;
-  justify-content: end;
-}
 header .container .row .nav ul {
   justify-content: end;
 }
